@@ -1,0 +1,11 @@
+{
+  "include": [
+    "package.json",
+    "src/**/*"
+  ],
+  "compilerOptions": {
+    "target": "es5",
+    "watch": true,
+    "outDir": "./dist"
+  }
+}
